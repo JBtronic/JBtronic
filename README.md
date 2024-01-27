@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 A passionate Flutter Developer
 
-JBtronic
+JBtronic JBtronic
 
 🔭 I’m currently working on Flutter Development
 
