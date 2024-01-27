@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **about Dart**
 
+- 💬 Ask me about **Flutter Development**
+
 - 👨‍💻 All of my projects are available at [https://github.com/jbtronic](https://github.com/jbtronic)
 
 - 👯 Please support me on [http://youtube.com/jbtronic](http://youtube.com/jbtronic)
-
-- 💬 Ask me about **Flutter Development**
 
 - 📫 How to reach me **jawwadbilgrami98@gmail.com**
 
