@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Jawwad Bilgrami</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamad-Anwar&label=Profile%20views&color=0e75b6&style=flat" alt="Jawwad Bilgrami" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jbtronic" alt="Jawwad Bilgrami" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbtronic&label=Profile%20views&color=0e75b6&style=flat" alt="jbtronic" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jbtronic" alt="Jawwad Bilgrami" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter Development**
 
