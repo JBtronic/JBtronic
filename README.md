@@ -1,6 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://Mirzaazmath.io)
 <h1 align="center">Hi 👋, I'm Jawwad Bilgrami</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamad-Anwar&label=Profile%20views&color=0e75b6&style=flat" alt="Jawwad Bilgrami" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jbtronic" alt="Jawwad Bilgrami" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbtronic&label=Profile%20views&color=0e75b6&style=flat" alt="jbtronic" /> </p>
 
 - 🔭 I’m currently working on **Flutter Development**
